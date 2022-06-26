@@ -1,0 +1,21 @@
+{
+  "osStr": "audioOS",
+  "version": "14.4 RC",
+  "build": "18K802",
+  "uniqueBuild": "18K802-RC-audioOS",
+  "released": "2021-01-21",
+  "beta": true,
+  "deviceMap": [
+    "AudioAccessory1,1",
+    "AudioAccessory1,2",
+    "AudioAccessory5,1"
+  ],
+  "sortVersion": "14.4 RC",
+  "osType": "audioOS",
+  "devices": {
+    "AudioAccessory1,1": {},
+    "AudioAccessory1,2": {},
+    "AudioAccessory5,1": {}
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=audioOS&build=18K802-RC%7D"
+}

@@ -1,0 +1,101 @@
+{
+  "osStr": "macOS",
+  "version": "12.4",
+  "build": "21F79",
+  "released": "2022-05-16",
+  "release_notes": "https://support.apple.com/HT212585#macos124",
+  "security_notes": "https://support.apple.com/HT213257",
+  "deviceMap": [
+    "Mac13,1",
+    "Mac13,2",
+    "MacBookAir10,1",
+    "MacBookPro17,1",
+    "MacBookPro18,1",
+    "MacBookPro18,2",
+    "MacBookPro18,3",
+    "MacBookPro18,4",
+    "Macmini9,1",
+    "iMac21,1",
+    "iMac21,2",
+    "VirtualMac2,1"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "Mac13,1",
+        "Mac13,2",
+        "MacBookAir10,1",
+        "MacBookPro17,1",
+        "MacBookPro18,1",
+        "MacBookPro18,2",
+        "MacBookPro18,3",
+        "MacBookPro18,4",
+        "Macmini9,1",
+        "iMac21,1",
+        "iMac21,2",
+        "VirtualMac2,1"
+      ],
+      "type": "ipsw",
+      "size": 13837340777,
+      "hashes": {
+        "sha1": "b5553b62da22e5fdbab2b56b6eb1fb74b58555ac",
+        "sha2-256": "1f9e921f77bbcb5cf78026389d6f7331cdd675bc081ffac77fc00405a7e822b3"
+      },
+      "links": [
+        {
+          "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw",
+          "preferred": true,
+          "active": true
+        },
+        {
+          "url": "http://updates-http.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw",
+          "preferred": false,
+          "active": true
+        }
+      ]
+    }
+  ],
+  "uniqueBuild": "21F79",
+  "beta": false,
+  "sortVersion": "12.4",
+  "osType": "macOS",
+  "devices": {
+    "Mac13,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "Mac13,2": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookAir10,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookPro17,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookPro18,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookPro18,2": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookPro18,3": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "MacBookPro18,4": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "Macmini9,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "iMac21,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "iMac21,2": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    },
+    "VirtualMac2,1": {
+      "ipsw": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-06874/9CECE956-D945-45E2-93E9-4FFDC81BB49A/UniversalMac_12.4_21F79_Restore.ipsw"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=macOS&build=21F79%7D"
+}

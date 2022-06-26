@@ -1,0 +1,8 @@
+{
+  "name": "Lightning to SD Card Camera Reader (USB)",
+  "type": "Cable",
+  "devices": [
+    "Lightning to SD Card Camera Reader (USB)"
+  ],
+  "order": 0
+}

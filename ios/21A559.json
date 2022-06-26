@@ -1,0 +1,92 @@
+{
+  "osStr": "macOS",
+  "version": "12.0.1",
+  "build": "21A559",
+  "released": "2021-10-25",
+  "release_notes": "https://support.apple.com/HT212585#macos1201",
+  "security_notes": "https://support.apple.com/HT212869",
+  "deviceMap": [
+    "MacBookAir10,1",
+    "MacBookPro17,1",
+    "MacBookPro18,1",
+    "MacBookPro18,2",
+    "MacBookPro18,3",
+    "MacBookPro18,4",
+    "Macmini9,1",
+    "iMac21,1",
+    "iMac21,2",
+    "VirtualMac2,1"
+  ],
+  "sources": [
+    {
+      "deviceMap": [
+        "MacBookAir10,1",
+        "MacBookPro17,1",
+        "MacBookPro18,1",
+        "MacBookPro18,2",
+        "MacBookPro18,3",
+        "MacBookPro18,4",
+        "Macmini9,1",
+        "iMac21,1",
+        "iMac21,2",
+        "VirtualMac2,1"
+      ],
+      "type": "ipsw",
+      "size": 14102871779,
+      "hashes": {
+        "sha1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+        "sha2-256": "3b8fcc1b674542a944fbefb69d29858b0728b1a829d18fd3d3e958691bc693bf",
+        "sha2-512": "dcca7344d2a5ccb888bceaff3bad485549879de0a8e4decd4964ebf61daf25169469662ea014b47e0b3fa86caee18dee7cecb0391e281b9b2a2a9293a947217b"
+      },
+      "links": [
+        {
+          "url": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+          "preferred": true,
+          "active": true
+        },
+        {
+          "url": "http://updates-http.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+          "preferred": false,
+          "active": true
+        }
+      ]
+    }
+  ],
+  "uniqueBuild": "21A559",
+  "beta": false,
+  "sortVersion": "12.0.1",
+  "osType": "macOS",
+  "devices": {
+    "MacBookAir10,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "MacBookPro17,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "MacBookPro18,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "MacBookPro18,2": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "MacBookPro18,3": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "MacBookPro18,4": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "Macmini9,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "iMac21,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "iMac21,2": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    },
+    "VirtualMac2,1": {
+      "ipsw": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw"
+    }
+  },
+  "appledburl": "https://appledb.dev/firmware.html?os=macOS&build=21A559%7D"
+}

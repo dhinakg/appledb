@@ -1,0 +1,11 @@
+{
+  "name": "Magic Keyboard with Touch ID",
+  "type": "Keyboard",
+  "model": [
+    "A2449"
+  ],
+  "released": "2021-05-21",
+  "identifier": "Magic Keyboard with Touch ID",
+  "key": "Magic Keyboard with Touch ID",
+  "board": []
+}
